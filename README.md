@@ -13,3 +13,10 @@ Signature verification with Siamese Networks:
 
 
 ![image](https://user-images.githubusercontent.com/69841466/112353670-4132d700-8ccc-11eb-9a57-6aa1994a5c81.png)
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/69841466/112357307-ae943700-8ccf-11eb-8ebd-9e67fa15abe5.png)
+
