@@ -16,6 +16,10 @@ Signature verification with Siamese Networks:
 
 
 
+Face Recognition:
+
+
+
 
 
 ![image](https://user-images.githubusercontent.com/69841466/112357307-ae943700-8ccf-11eb-8ebd-9e67fa15abe5.png)
