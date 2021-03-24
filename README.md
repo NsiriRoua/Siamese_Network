@@ -3,6 +3,10 @@
 
 
 
+As Siamese networks are mostly used in verification systems such as face recognition, signature verification, etc…
+
+
+
 Signature verification with Siamese Networks:
 
 
